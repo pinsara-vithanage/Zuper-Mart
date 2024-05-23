@@ -167,16 +167,6 @@ ul li a:hover {
     }
 }
 
-.dairy-par{
-	box-sizing: border-box;
-	border: 2px solid black;
-	font-color: black;
-	border-radius: 20px;
-	width: 900px;
-	margin-left: 150px;
-	margin-tp: 30px;
-	margin-bottom: 10px;
-
 body{
     margin: 0;
     font-family: sans-serif;
